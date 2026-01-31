@@ -1,0 +1,4 @@
+pip install SpeechRecognition
+pip install wikipedia
+pip pyaudio
+brew install portaudio
