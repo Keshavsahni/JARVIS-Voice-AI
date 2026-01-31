@@ -1,5 +1,0 @@
-keys=["AIzaSyCFHXiOoUAtXtWztWQhcAZVcgRtvyb29W8",
-"AIzaSyDQ-mBUkYg1qHGHEhXsk3rix9IF7HRuv0E",
-"AIzaSyDet4HzB_4T9k1ogQh-qHES4UC4GYehKfU",
-"AIzaSyDCwM_ypYPjgi2FibUMcgo0-baQoOOCWDU",
-"AIzaSyDZDIcRngyEcMC7M63yRI5Wt6p-_7UJTXk"]
